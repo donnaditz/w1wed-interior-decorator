@@ -1,0 +1,11 @@
+.column{
+  width: 31%;
+  float:left;
+  text-align: justify;
+  padding-left: 10px;
+}
+
+img.small-photo{
+  width:100%;
+  float:left;
+}
