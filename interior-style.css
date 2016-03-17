@@ -4,6 +4,15 @@
   text-align: justify;
   padding-left: 10px;
 }
+.bg-color1{
+  background-color: #ffcc99;
+}
+.bg-color2{
+  background-color: #dfff80;
+}
+.bg-color3{
+  background-color: #99ffff;
+}
 
 img.small-photo{
   width:100%;
